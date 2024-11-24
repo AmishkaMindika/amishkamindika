@@ -7,13 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Grit Fight Game & Social Ease Mobile App**
-
-- 🌱 I’m currently learning **Angular, Spring Boot & java**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~013fe4467c127e85eb?mp_source=share](https://www.upwork.com/freelancers/~013fe4467c127e85eb?mp_source=share)
-
-- 💬 Ask me about **Unreal Engin, Python**
 
 - 📫 How to reach me **mindikam7@gmail.com**
 
