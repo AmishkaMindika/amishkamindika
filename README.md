@@ -1,7 +1,7 @@
 ![logo](https://github.com/AmishkaMindika/git-hub-profile-banner/blob/main/git%20hub%20banner%201.png)
 <h1 align="center">Hi 👋, I'm Amishka Mindika Disanayaka</h1>
 <h3 align="center">A passionate Game developer, FrontEnd Developer, & Logo Designer from Sri Lanka </h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSumitwarrior7&psig=AOvVaw02nzY2Xx0Q580ktgqihEwD&ust=1737987935117000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICMv_3Lk4sDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/qBLGpQ4CpXpLebrz8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishkamindika&label=Profile%20views&color=0e75b6&style=flat" alt="amishkamindika" /> </p>
 
