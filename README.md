@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mindikam7@gmail.com**
 
-- ⚡ Fun fact **funny person**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
